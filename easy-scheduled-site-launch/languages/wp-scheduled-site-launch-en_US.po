@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Scheduled Site Launch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04 08:50+0000\n"
+"PO-Revision-Date: 2025-10-04 08:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-7.4.30\n"
+"X-Domain: wp-scheduled-site-launch"
+
+#: includes/class-wp-scheduled-site-launch.php:263
+msgid "Background Color:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:481
+#: includes/class-wp-scheduled-site-launch.php:551
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:232
+msgid "Coming Soon Message:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:276
+msgid "Enable Countdown Timer:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:204
+msgid "Enable Plugin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://teckut.com/"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:219
+msgid "Launch Date & Time:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:211
+#: includes/class-wp-scheduled-site-launch.php:283
+msgid "No"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:186
+#: includes/class-wp-scheduled-site-launch.php:398
+msgid "Our website is coming soon! Stay tuned."
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:299
+msgid "Professional"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:252
+msgid "Remove Logo"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:306
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:89
+#: includes/class-wp-scheduled-site-launch.php:90
+msgid "Scheduled Launch"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:193
+msgid "Scheduled Site Launch"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:343
+msgid "Select Logo"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show a coming soon page with logo, custom message, countdown, and selectable "
+"template until scheduled launch date."
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:298
+msgid "Simple"
+msgstr ""
+
+#. Author of the plugin
+msgid "Teckut"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:292
+msgid "Template:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:251
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:245
+msgid "Upload Logo:"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:345
+msgid "Use this Logo"
+msgstr "Use this Logo"
+
+#. Name of the plugin
+msgid "WP Scheduled Site Launch"
+msgstr ""
+
+#: includes/class-wp-scheduled-site-launch.php:210
+#: includes/class-wp-scheduled-site-launch.php:282
+msgid "Yes"
+msgstr ""
